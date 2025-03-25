@@ -1,1 +1,1 @@
-# -Smart-Log-Analyzer-for-Automation-Frameworks
+# Smart-Log-Analyzer-for-Automation-Frameworks
